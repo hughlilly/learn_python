@@ -1,5 +1,2 @@
 # Learn Python
-Python 3.10 tutorials.
-
-
-Phil was here.
+Simple tutorials created to teach a former colleague Python 3.10, with the aim of eventually using [Pandas](http://pandas.pydata.org) for data cleaning.
